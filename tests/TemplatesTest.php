@@ -1,12 +1,12 @@
 <?php
 
-namespace Stenfrank\Tests;
+namespace sistemasagapanto\Tests;
 
 use DOMDocument;
-use Stenfrank\UBL21dian\Templates\SOAP\GetStatus;
-use Stenfrank\UBL21dian\Templates\SOAP\GetStatusZip;
-use Stenfrank\UBL21dian\Templates\SOAP\SendBillAsync;
-use Stenfrank\UBL21dian\Templates\SOAP\SendTestSetAsync;
+use sistemasagapanto\UBL21dian\Templates\SOAP\GetStatus;
+use sistemasagapanto\UBL21dian\Templates\SOAP\GetStatusZip;
+use sistemasagapanto\UBL21dian\Templates\SOAP\SendBillAsync;
+use sistemasagapanto\UBL21dian\Templates\SOAP\SendTestSetAsync;
 
 /**
  * Templates test.

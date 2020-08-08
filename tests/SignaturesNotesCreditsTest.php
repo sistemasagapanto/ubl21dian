@@ -1,9 +1,9 @@
 <?php
 
-namespace Stenfrank\Tests;
+namespace sistemasagapanto\Tests;
 
 use DOMDocument;
-use Stenfrank\UBL21dian\XAdES\SignCreditNote;
+use sistemasagapanto\UBL21dian\XAdES\SignCreditNote;
 
 /**
  * Signatures Notes Credits.

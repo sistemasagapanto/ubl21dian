@@ -1,6 +1,6 @@
 <?php
 
-namespace Stenfrank\UBL21dian\XAdES;
+namespace sistemasagapanto\UBL21dian\XAdES;
 
 /**
  * Sign Credit Note.

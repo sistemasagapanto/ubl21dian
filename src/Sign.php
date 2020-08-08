@@ -1,8 +1,8 @@
 <?php
 
-namespace Stenfrank\UBL21dian;
+namespace sistemasagapanto\UBL21dian;
 
-use Stenfrank\UBL21dian\Traits\DIANTrait;
+use sistemasagapanto\UBL21dian\Traits\DIANTrait;
 
 /**
  * Sign.
